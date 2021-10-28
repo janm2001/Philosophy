@@ -206,7 +206,7 @@ main{
         color:rgb(0, 0, 0);
         text-shadow: 2px 2px 4px #000;
         font-weight: 900;
-        font-size: 2.5rem;
+        font-size: 2.0rem;
         font-family: 'Abril Fatface', cursive;
     }
 
@@ -214,6 +214,20 @@ main{
         margin-top: 30px;
         width: 100%;
         height: auto;
+    }
+
+    #plato h1{
+        color:rgb(0, 15, 80);
+        text-shadow: 2px 2px 4px rgb(0, 15, 80);
+        font-weight: 900;
+        font-size: 2.0rem;
+        
+        border-bottom:3px solid rgb(233, 16, 16);
+        text-align: center;
+        width: 80%;
+        margin:0 auto;
+        padding: 5px;
+        
     }
 
 }
